@@ -1,0 +1,44 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	background-color: #d5efb1;
+	font-family: 'Dosis', cursive;
+	font-weight: bold;
+	text-align: center;
+}
+form {
+	padding: 20px;
+	font-weight: bold;
+	display: inline-block;
+}
+form input, form button {
+	display: block;
+	padding: 10px;
+	margin: 10px;
+}
+form button {
+	width: 160px;
+	font-weight: bold;
+	font-size: 18px;
+	margin: 10px auto;
+}
+
+.contactItem {
+	background-color: #6f894b;
+	border-radius: 20px;
+	width: 80%;
+    margin: 20px auto;
+    padding-bottom: 30px;
+	font-size: 20px;
+	letter-spacing: 3px;
+}
+img {
+	margin-top: 60px;
+}
+.contactItem p {
+	width: 350px;
+	margin: 10px auto;
+	background: #fff;
+	padding: 10px;
+}
